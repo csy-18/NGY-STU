@@ -8,6 +8,7 @@ package com.sychen.soft2036.week1;
  * @Author msi
  * @Date 2020/10/5
  **/
+
 public class hello {
 
 }
