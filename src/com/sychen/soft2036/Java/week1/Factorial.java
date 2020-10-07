@@ -1,4 +1,4 @@
-package com.sychen.soft2036.week1;
+package com.sychen.soft2036.Java.week1;
 
 /**
  * @ClassName factorial
