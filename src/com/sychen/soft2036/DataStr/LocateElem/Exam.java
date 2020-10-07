@@ -16,22 +16,25 @@ public class Exam {
         q.freq=tmp;
 
     }
+/**
+ * 查找值为x的结点
+ */
 
     public static boolean LocateElem(DLinkListClass1<Integer> L,Integer x) {
         DLinkNode1<Integer> p,pre;
-        p=L.dhead.next;
+        p=L.dhead.next;           //p指向开始结点
         while (p!=null&&!p.data.equals(x))
             p=p.next;
         if (p==null)
             return false;
-        p.freq++;
+        p.freq++;        //找到值为x的结点p
         pre=p.prior;
-        while (pre!=L.dhead&&pre.freq<p.freq){
+        while (pre!=L.dhead&&pre.freq<p.freq){   //若p.freq比前驱大，两者值交换
             swap(pre,p);
-            p= pre;pre=p.prior;
+            p= pre;pre=p.prior;             //p、pre同步前移
 
         }
-        return true;
+        return true;               //成功找到值为x的结点返回真
     }
     public static void Find(DLinkListClass1<Integer> L,Integer x){
         System.out.println("查找值为"+x+"的结点");

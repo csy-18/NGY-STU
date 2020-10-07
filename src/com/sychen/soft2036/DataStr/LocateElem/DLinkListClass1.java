@@ -6,26 +6,28 @@ package com.sychen.soft2036.DataStr.LocateElem;
  * @Author msi
  * @Date 2020/10/7
  **/
-public class DLinkListClass1<E> {
-    DLinkNode1<E> dhead;
+public class DLinkListClass1<E> {  //双链表泛型类
+    DLinkNode1<E> dhead;  //存放头结点
 
     public DLinkListClass1() {
         dhead = new DLinkNode1<E>();
         dhead.next = null;
         dhead.prior = null;
-
-
     }
-    public void CreateListR(E[] a){
+    /**
+     * 线性表的基本运算算法
+     */
+
+    public void CreateListR(E[] a){   //尾插法：有数组a整体建立双链表
         DLinkNode1<E> s,t;
-        t=dhead;
-        for (int i = 0; i <a.length ; i++) {
-            s=new DLinkNode1<>(a[i]);
-            t.next=s;
+        t=dhead;                      //t始终指向尾结点，开始指向头结点
+        for (int i = 0; i <a.length ; i++) {   //循环建立数据结点s
+            s=new DLinkNode1<>(a[i]);   //存放a[i]元素的结点s
+            t.next=s;          //将s结点插入t结点之后
             s.prior=t;
             t=s;
         }
-        t.next=null;
+        t.next=null;   //将尾结点的next成员置为空null
     }
 
     @Override
