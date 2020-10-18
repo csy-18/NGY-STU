@@ -1,11 +1,11 @@
 package com.sychen.soft2036.DataStr.LocateElem;
-
 /**
  * @ClassName Exam
  * @Description TODO
  * @Author msi
  * @Date 2020/10/7
  **/
+
 public class Exam {
     private static void swap(DLinkNode1<Integer> p ,DLinkNode1<Integer> q) {
         int tmp=p.data;   //交换p,q结点
