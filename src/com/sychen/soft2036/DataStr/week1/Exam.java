@@ -1,4 +1,4 @@
-package com.sychen.soft2036.DataStr.LocateElem;
+package week1;
 /**
  * @ClassName Exam
  * @Description TODO

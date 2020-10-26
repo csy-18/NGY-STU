@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb15628-2a31-4f6d-9532-dd7834572b38" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/CyLinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/MyDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/OverLoadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/OverLoadTestApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/TestApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week3/SqStackApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week3/SqStackClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/BaseEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/MarketEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/OtherEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Travel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week4/BaseEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week4/MarketEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/week4/OtherEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/msi165738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/msi170634.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/TestApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sychen/soft2036/DataStr/LocateElem/DLinkListClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week1/DLinkListClass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sychen/soft2036/DataStr/LocateElem/DLinkNode1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week1/DLinkNode1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sychen/soft2036/DataStr/LocateElem/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week1/Exam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +37,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -38,7 +49,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -65,60 +76,37 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="构件" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="应用程序.TestApp">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.Circle" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="week4" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="week4" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="week1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MarketEmployeeTest.getSalary">
+    <configuration name="SqStackApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.SqStackApp" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.MyDate" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OverLoadTestApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3.OverLoadTestApp" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.Test" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,13 +127,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarketEmployeeTest.getSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week4" />
+      <option name="MAIN_CLASS_NAME" value="week4.MarketEmployeeTest" />
+      <option name="METHOD_NAME" value="getSalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarketEmployeeTest.print" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="week4" />
+      <option name="MAIN_CLASS_NAME" value="week4.MarketEmployeeTest" />
+      <option name="METHOD_NAME" value="print" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MarketEmployeeTest.getSalary" />
+        <item itemvalue="JUnit.MarketEmployeeTest.print" />
+        <item itemvalue="应用程序.SqStackApp" />
+        <item itemvalue="应用程序.test" />
         <item itemvalue="应用程序.TestApp" />
-        <item itemvalue="应用程序.Circle" />
-        <item itemvalue="应用程序.MyDate" />
-        <item itemvalue="应用程序.OverLoadTestApp" />
-        <item itemvalue="应用程序.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +206,27 @@
       <workItem from="1603027130819" duration="1206000" />
       <workItem from="1603028357641" duration="18000" />
       <workItem from="1603084579937" duration="12480000" />
+      <workItem from="1603102432283" duration="2003000" />
+      <workItem from="1603109627989" duration="376000" />
+      <workItem from="1603153762631" duration="3949000" />
+      <workItem from="1603157726928" duration="253000" />
+      <workItem from="1603157991182" duration="98000" />
+      <workItem from="1603158100870" duration="3197000" />
+      <workItem from="1603161685003" duration="92000" />
+      <workItem from="1603161790226" duration="95000" />
+      <workItem from="1603161898577" duration="81000" />
+      <workItem from="1603161994104" duration="41000" />
+      <workItem from="1603162049283" duration="114000" />
+      <workItem from="1603162176069" duration="1696000" />
+      <workItem from="1603171626767" duration="27000" />
+      <workItem from="1603174514271" duration="42000" />
+      <workItem from="1603174571066" duration="6000" />
+      <workItem from="1603188902020" duration="68000" />
+      <workItem from="1603204985238" duration="48000" />
+      <workItem from="1603205100490" duration="229000" />
+      <workItem from="1603205345604" duration="10000" />
+      <workItem from="1603262098394" duration="18000" />
+      <workItem from="1603690843388" duration="6638000" />
     </task>
     <task id="LOCAL-00001" summary="课后作业">
       <created>1603028158431</created>
@@ -174,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603028158431</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10月19日">
+      <created>1603102460641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603102460641</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,65 +250,82 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="课后作业" />
-    <option name="LAST_COMMIT_MESSAGE" value="课后作业" />
+    <MESSAGE value="10月19日" />
+    <option name="LAST_COMMIT_MESSAGE" value="10月19日" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="380" y="0" key="#Java" timestamp="1603162332228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="380" y="0" key="#Java/0.0.1536.824@0.0.1536.824" timestamp="1603162332228" />
     <state x="496" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603086911203">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603086911203" />
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1603095430385">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1603695040648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603095430385" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603695040648" />
     <state x="813" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603088231295">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="813" y="93" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1603088231295" />
+    <state x="539" y="279" width="457" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603153873472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="539" y="279" width="457" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1603153873472" />
+    <state x="249" y="0" key="#项目结构" timestamp="1603109640748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1603109640748" />
     <state x="520" y="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602575945111">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="520" y="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1602575945111" />
-    <state x="316" y="0" key="CommitChangelistDialog2" timestamp="1603028157238">
+    <state x="316" y="0" key="CommitChangelistDialog2" timestamp="1603102459785">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="316" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603028157238" />
+    <state x="316" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603102459785" />
     <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1603087672501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1603087672501" />
-    <state width="1493" height="173" key="GridCell.Tab.0.bottom" timestamp="1603098133617">
+    <state x="774" y="201" key="FileChooserDialogImpl" timestamp="1603205026527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603098133617" />
-    <state width="1493" height="173" key="GridCell.Tab.0.center" timestamp="1603098133616">
+    <state x="774" y="201" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603205026527" />
+    <state width="767" height="245" key="GridCell.Tab.0.bottom" timestamp="1603697657969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="173" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603098133616" />
-    <state width="1493" height="173" key="GridCell.Tab.0.left" timestamp="1603098133616">
+    <state width="767" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603697657969" />
+    <state width="767" height="245" key="GridCell.Tab.0.center" timestamp="1603697657968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="173" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603098133616" />
-    <state width="1493" height="173" key="GridCell.Tab.0.right" timestamp="1603098133616">
+    <state width="767" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603697657968" />
+    <state width="767" height="245" key="GridCell.Tab.0.left" timestamp="1603697657968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="173" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603098133616" />
+    <state width="767" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603697657968" />
+    <state width="767" height="245" key="GridCell.Tab.0.right" timestamp="1603697657969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="767" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603697657969" />
     <state width="146" height="477" key="HiddenNamespacesPopup" timestamp="1603087652785">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="146" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1603087652785" />
-    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1603094398141">
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1603694836542">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1603094398141" />
-    <state x="149" y="20" key="SettingsEditor" timestamp="1603097545801">
+    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1603694836542" />
+    <state x="367" y="0" key="SettingsEditor" timestamp="1603693110501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="149" y="20" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603097545801" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603028161634">
+    <state x="367" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603693110501" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603102548770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603028161634" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603102548770" />
     <state x="565" y="190" width="875" height="444" key="chooseDestDirectoryDialog" timestamp="1602575993384">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -253,6 +338,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="582" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1603092519930" />
+    <state x="924" y="181" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603694024876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="924" y="181" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1603694024876" />
+    <state x="239" y="0" key="new project wizard" timestamp="1603205030418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="239" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603205030418" />
+    <state x="728" y="306" width="541" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1603161466602">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="728" y="306" width="541" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1603161466602" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

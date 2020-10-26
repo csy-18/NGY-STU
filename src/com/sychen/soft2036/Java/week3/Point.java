@@ -27,8 +27,11 @@ public class Point {
     public void print() {
         System.out.println("横坐标：" + this.x + "纵坐标：" + this.y);
     }
-    public void distance(){
-        return  Math.sqrt();
 
+    public static double distance(Point point1, Point point2) {
+        double i = Math.pow((point1.x - point2.x), 2);
+        double o = Math.pow((point1.y - point2.y), 2);
+        double c = Math.sqrt(i + o);
+        return c;
     }
 }
