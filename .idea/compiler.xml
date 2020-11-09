@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Java" />
+        <module name="NGY-STU" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="15" />
