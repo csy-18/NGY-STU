@@ -17,8 +17,9 @@ public class PC {
     public void setHD(HardDisk h) {
         this.HD = h;
     }
-    public void show(){
-        System.out.println("cpu:"+cpu.speed);
-        System.out.println("disk:"+HD.amount);
+
+    public void show() {
+        System.out.println("cpu:" + cpu.speed);
+        System.out.println("disk:" + HD.amount);
     }
 }

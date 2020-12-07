@@ -13,12 +13,12 @@ public class MyDate extends Date {
 
     @Override
     public String toString() {
-        SimpleDateFormat simpleDateFormat =new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         return simpleDateFormat.format(this);
     }
 
     public static void main(String[] args) {
-        MyDate myDate=new MyDate();
+        MyDate myDate = new MyDate();
         System.out.println(myDate);
     }
 }

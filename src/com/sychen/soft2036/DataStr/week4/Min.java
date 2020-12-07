@@ -10,8 +10,11 @@ public class Min {
     public static int Min(int[] a, int low, int heigh) {
         int min;
         if (low < heigh - 2) {
-            if (a[low] < a[heigh]) {min = a[low];}
-            else{ min = a[heigh];}
+            if (a[low] < a[heigh]) {
+                min = a[low];
+            } else {
+                min = a[heigh];
+            }
         } else {
             int mid = (low + heigh) / 2;
             int min1 = Min(a, low, mid);
@@ -23,13 +26,13 @@ public class Min {
     }
 
     public static void fun(int n) {
-        if (n==1){
+        if (n == 1) {
             System.out.print("a:%d\n");
             System.out.println(n);
-        }else {
+        } else {
             System.out.print("b:%d\n");
             System.out.println(n);
-            fun(n-1);
+            fun(n - 1);
             System.out.print("c:%d\n");
             System.out.println(n);
         }
@@ -37,7 +40,7 @@ public class Min {
     }
 
     public static void main(String[] args) {
-        Min min=new Min();
+        Min min = new Min();
 //        min.fun(5);
     }
 

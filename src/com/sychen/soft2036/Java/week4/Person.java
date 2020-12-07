@@ -6,7 +6,7 @@ package week4;
  * @Author msi
  * @Date 2020-10-26
  **/
-public abstract class Person implements Fly,Travel{
+public abstract class Person implements Fly, Travel {
     @Override
     public int speed() {
         return 0;

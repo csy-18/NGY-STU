@@ -6,17 +6,17 @@ package week3;
  * @Author msi
  * @Date 2020-10-19
  **/
-public class CyLinder extends Circle{
+public class CyLinder extends Circle {
     private int h;
 
-    public CyLinder(Integer x, Integer y, int r,int h) {
+    public CyLinder(Integer x, Integer y, int r, int h) {
         super(x, y, r);
-        this.h=h;
+        this.h = h;
     }
 
     @Override
     public void print() {
         super.print();
-        System.out.println("圆柱的体积"+super.getArea()*this.h);
+        System.out.println("圆柱的体积" + super.getArea() * this.h);
     }
 }

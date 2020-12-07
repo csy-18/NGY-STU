@@ -33,30 +33,33 @@ public class SqStackClass<E> {
                 '}';
     }
 
-    private void updatecapacity(int newcapacity){
-        E[] newdata=(E[])new Object[newcapacity];
-        for (int i = 0; i <top; i++) {
-            newdata[i]=data[i];
+    private void updatecapacity(int newcapacity) {
+        E[] newdata = (E[]) new Object[newcapacity];
+        for (int i = 0; i < top; i++) {
+            newdata[i] = data[i];
         }
-        capacity=newcapacity;
-        data=newdata;
+        capacity = newcapacity;
+        data = newdata;
     }
+
     /**
      * 判断栈是否为空
      */
-    public boolean empty(){
-        return top==-1;
+    public boolean empty() {
+        return top == -1;
     }
+
     /**
      * 进栈push(e)
      */
-    public void push(E e){
-        if (top==capacity-1){
-            updatecapacity(2*(top+1));
+    public void push(E e) {
+        if (top == capacity - 1) {
+            updatecapacity(2 * (top + 1));
         }
         top++;
-        data[top]=e;
+        data[top] = e;
     }
+
     /**
      * 出栈pop
      */
@@ -71,13 +74,14 @@ public class SqStackClass<E> {
         }
         return e;
     }
+
     /**
      * 取栈顶元素
      */
-    public E peek(){
-        if (empty()){
+    public E peek() {
+        if (empty()) {
             throw new IllegalArgumentException("栈空");
         }
-        return (E)data[top];
+        return (E) data[top];
     }
 }

@@ -1,4 +1,4 @@
-package week1;
+package DataStr.week1;
 
 /**
  * @ClassName DLinkNode
@@ -7,7 +7,7 @@ package week1;
  * @Date 2020/10/7
  **/
 
-public class DLinkNode1<E>{
+public class DLinkNode1<E> {
     E data; //双链表结点泛型类
     int freq;  //结点中元素值
     DLinkNode1<E> prior;  //结点访问频度
@@ -15,7 +15,7 @@ public class DLinkNode1<E>{
 
     public DLinkNode1() {  //构造方法
         freq = 0;
-       prior = null;
+        prior = null;
         next = null;
     }
 

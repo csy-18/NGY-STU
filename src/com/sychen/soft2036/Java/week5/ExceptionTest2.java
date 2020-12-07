@@ -19,7 +19,7 @@ public class ExceptionTest2 {
             byte[] b = readFile("C://Users/msi/OneDrive/图片/1234.jpg");
         } catch (IOException e) {
             System.err.println("出现IO异常");
-        }finally { //通常用于数据库连接的关闭，线程池的资源回收，IO流的关闭
+        } finally { //通常用于数据库连接的关闭，线程池的资源回收，IO流的关闭
             System.out.println("无论有无异常都会执行的代码段");
         }
         System.out.println("111111111");
@@ -27,6 +27,7 @@ public class ExceptionTest2 {
 
     /**
      * 声明异常
+     *
      * @param path 文件路径
      * @return bytes 字节数组
      * @throws IOException

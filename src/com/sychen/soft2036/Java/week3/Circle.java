@@ -11,19 +11,20 @@ package week3;
 public class Circle extends Point {
     int r;
 
-    public Circle(Integer x, Integer y,int r) {
+    public Circle(Integer x, Integer y, int r) {
         super(x, y);
-        this.r=r;
+        this.r = r;
         System.out.println("⚪被初始化");
     }
 
     @Override
     public void print() {
         super.print();
-        System.out.println("圆的面积："+Math.PI*r*r);
+        System.out.println("圆的面积：" + Math.PI * r * r);
     }
-    public double getArea(){
-        System.out.println(Math.PI*r*r);
+
+    public double getArea() {
+        System.out.println(Math.PI * r * r);
         return 1;
     }
 

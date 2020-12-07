@@ -12,8 +12,8 @@ public class BaseEmployeeTest {
 
     @Test
     public void getSalary() {
-        BaseEmployee baseEmployee =new MarketEmployee();
-        baseEmployee =new OtherEmployee();
+        BaseEmployee baseEmployee = new MarketEmployee();
+        baseEmployee = new OtherEmployee();
 
     }
 }

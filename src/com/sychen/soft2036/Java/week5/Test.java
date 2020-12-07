@@ -7,7 +7,7 @@ package week5;
  * @Date 2020-11-2
  **/
 public class Test {
-    String s1="kk";
-    String s2="kk1";
+    String s1 = "kk";
+    String s2 = "kk1";
 
 }

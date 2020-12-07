@@ -7,5 +7,5 @@ package week5;
  * @Date 2020-11-2
  **/
 public interface BookService {
-    boolean  putOn(Book book) throws ISBNException,PriceException,BookNameException;
+    boolean putOn(Book book) throws ISBNException, PriceException, BookNameException;
 }

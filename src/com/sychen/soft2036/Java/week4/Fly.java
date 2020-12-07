@@ -7,9 +7,11 @@ package week4;
  * @Date 2020-10-26
  **/
 public interface Fly {
-    final int MAX_SPEED=100;
+    final int MAX_SPEED = 100;
+
     /**
      * 飞行时速
+     *
      * @return int
      */
     int speed();

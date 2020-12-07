@@ -6,7 +6,7 @@ package week4;
  * @Author msi
  * @Date 2020-10-26
  **/
-public class OtherEmployee extends BaseEmployee{
+public class OtherEmployee extends BaseEmployee {
     private String gender;
 
     public OtherEmployee() {
@@ -18,6 +18,6 @@ public class OtherEmployee extends BaseEmployee{
 
     @Override
     public int getSalary() {
-        return "man".equals(this.gender)?5000:8000;
+        return "man".equals(this.gender) ? 5000 : 8000;
     }
 }

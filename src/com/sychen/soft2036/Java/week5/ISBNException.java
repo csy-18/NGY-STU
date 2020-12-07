@@ -6,8 +6,8 @@ package week5;
  * @Author msi
  * @Date 2020-11-2
  **/
-public class ISBNException extends Exception{
-    public ISBNException(String message){
+public class ISBNException extends Exception {
+    public ISBNException(String message) {
         super(message);
     }
 

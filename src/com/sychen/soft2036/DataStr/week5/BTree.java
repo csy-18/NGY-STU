@@ -169,18 +169,18 @@ public class BTree {
         }
     }
 
-    public int NodeNum(BTree bTree){
-       return NodeNum1(bTree.b);
+    public int NodeNum(BTree bTree) {
+        return NodeNum1(bTree.b);
     }
-    private int NodeNum1(BTNode<Character> t){
-        int count=0;
+
+    private int NodeNum1(BTNode<Character> t) {
+        int count = 0;
         if (t != null) {
-            return 1+NodeNum1(t.ichild)+NodeNum1(t.rchild);
-        }else {
+            return 1 + NodeNum1(t.ichild) + NodeNum1(t.rchild);
+        } else {
             return count;
         }
     }
-
 
 
     public static void main(String[] args) {
@@ -188,9 +188,9 @@ public class BTree {
         String data1;
         String data2;
         data1 = "A(B(D,E(,H)),C(F,G(I,)))";
-        data2 ="A(B(D(,F(H,))),C(,E(G,)))";
+        data2 = "A(B(D(,F(H,))),C(,E(G,)))";
         data = "A(B(D(,G)),C(E,F))";
-        BTree bTree=new BTree();
+        BTree bTree = new BTree();
         bTree.CreateBTree(data);
 //        System.out.println("括号表示法" + data2);
 //        BTree bTree = new BTree();
@@ -210,7 +210,7 @@ public class BTree {
 
         bTree.PostOrder1(bTree);
         System.out.println("-->后序遍历");
-        System.out.println("这棵树的总结点数："+bTree.NodeNum(bTree));
+        System.out.println("这棵树的总结点数：" + bTree.NodeNum(bTree));
 
     }
 

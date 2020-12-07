@@ -48,6 +48,5 @@ public class ExceptionTest1 {
         //4、NPE 空指针异常 NullPointerException
 
 
-
     }
 }

@@ -110,12 +110,12 @@ public class Tup {
 
     public static void main(String[] args) {
 
-        TupElem<Integer> tupElem=new TupElem(1,2,3);
+        TupElem<Integer> tupElem = new TupElem(1, 2, 3);
         System.out.println(tupElem.toString());
-        Tup tup1=new Tup();
-        tup1.rows=5;
-        tup1.cols=6;
-        tup1.nums=7;
+        Tup tup1 = new Tup();
+        tup1.rows = 5;
+        tup1.cols = 6;
+        tup1.nums = 7;
 //        System.out.println(tup.CreateTup();
     }
 }

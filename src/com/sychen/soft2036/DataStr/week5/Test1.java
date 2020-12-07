@@ -10,9 +10,9 @@ import java.util.Arrays;
  **/
 public class Test1 {
     public static void main(String[] args) {
-        int [][] mat=new int[4][];
-        for (int i = 0; i <mat.length ; i++) {
-            mat[i]=new int[i+1];
+        int[][] mat = new int[4][];
+        for (int i = 0; i < mat.length; i++) {
+            mat[i] = new int[i + 1];
             System.out.println(Arrays.toString(mat[i]));
         }
 

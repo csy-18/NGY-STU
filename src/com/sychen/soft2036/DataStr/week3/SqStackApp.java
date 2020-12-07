@@ -8,7 +8,7 @@ package week3;
  **/
 public class SqStackApp {
     public static void main(String[] args) {
-        SqStackClass<Integer> sqStackClass1 =new SqStackClass<Integer>();
+        SqStackClass<Integer> sqStackClass1 = new SqStackClass<Integer>();
         sqStackClass1.push(2);
         sqStackClass1.push(3);
         sqStackClass1.push(4);

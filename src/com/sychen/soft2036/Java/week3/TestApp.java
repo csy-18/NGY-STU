@@ -17,14 +17,14 @@ public class TestApp {
 //        cyLinder.print();
         Point point1 = new Point(1, 1);
         Point point2 = new Point(2, 2);
-        double d = Point.distance(point1,point2);
+        double d = Point.distance(point1, point2);
         System.out.println(d);
-        Circle circle=new Circle(5,5,3);
-        double a = Point.distance(circle,point1);
-        if (a> circle.r){
+        Circle circle = new Circle(5, 5, 3);
+        double a = Point.distance(circle, point1);
+        if (a > circle.r) {
             System.out.println("不在圆内");
 
-        }else {
+        } else {
             System.out.println("在圆内");
         }
 
