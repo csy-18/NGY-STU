@@ -1,4 +1,4 @@
-package week4;
+package soft2036.DataStr.week4;
 
 import java.util.ArrayList;
 

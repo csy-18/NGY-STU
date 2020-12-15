@@ -1,4 +1,4 @@
-package DataStr.week1;
+package soft2036.DataStr.week1;
 
 /**
  * @ClassName DLinkListClass1

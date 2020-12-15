@@ -1,4 +1,4 @@
-package DataStr.week5;
+package soft2036.DataStr.week5;
 
 public class BTNode<E> {
     E data;

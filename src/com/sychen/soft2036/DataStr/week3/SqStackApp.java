@@ -1,4 +1,4 @@
-package week3;
+package soft2036.DataStr.week3;
 
 /**
  * @ClassName SqStackApp

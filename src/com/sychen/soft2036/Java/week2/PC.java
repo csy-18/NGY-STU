@@ -1,4 +1,4 @@
-package week2;
+package soft2036.Java.week2;
 
 /**
  * @ClassName PC

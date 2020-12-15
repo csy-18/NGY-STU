@@ -1,4 +1,4 @@
-package week5;
+package soft2036.DataStr.week5;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package week5;
+package soft2036.Java.week5;
 
 /**
  * @ClassName MyBook
