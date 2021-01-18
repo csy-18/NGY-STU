@@ -1,4 +1,4 @@
-package week3;
+package soft2036.Java.week3;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

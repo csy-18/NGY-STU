@@ -1,4 +1,4 @@
-package com.sychen.soft2036.Java.week1;
+package soft2036.Java.week1;
 
 /**
  * @ClassName test

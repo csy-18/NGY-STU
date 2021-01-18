@@ -1,4 +1,4 @@
-package Java.week9;
+package soft2036.Java.week9;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,7 +12,7 @@ import java.util.*;
  * @Author csy
  * @Date 2020-11-30
  */
-class FileTest {
+public class FileTest {
     public static void main(String[] args) throws IOException {
         //1-1.使用系统时间命名文件夹
         SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
@@ -20,7 +20,7 @@ class FileTest {
         c.setTime(new Date()); // 现在使用今天.
         String output = sdf.format(c.getTime());
         System.out.println(output);
-        String d = "E:" + File.separator + output + File.separator + "hi.txt";
+        String d = "D:" + File.separator + output + File.separator + "hi.txt";
         File f = new File(d);
         if (!f.exists()) {
             boolean flag = f.mkdirs();
@@ -40,29 +40,26 @@ class FileTest {
 
         String[] list = {"面向对象", "异常", "集合", "io", "多线程"};
         String[] list2 = {"字符流", "字节流"};
-        File dir = new File("E:\\java");
+        File dir = new File("D:\\java");
         if (!dir.exists()) {
             boolean flag = dir.mkdirs();
             System.out.println(flag + "Java目录创建成功");
         }
         for (String s : list) {
-            File file = new File("E:\\java" + File.separator + s);
+            File file = new File("D:\\java" + File.separator + s);
             if (!file.exists()) {
                 boolean flag = file.mkdirs();
                 System.out.println(flag + ",Java下子目录创建成功");
             }
             if (s.equals("io")) {
                 for (String a : list2) {
-                    File file1 = new File("E:\\java\\io\\" + a);
+                    File file1 = new File("D:\\java\\io\\" + a);
                     if (!file1.exists()) {
                         boolean flag = file1.mkdirs();
                         System.out.println(flag + ",io下子目录创建成功");
                     }
                 }
             }
-
-
         }
-
     }
 }

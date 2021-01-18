@@ -1,4 +1,4 @@
-package week3;
+package soft2036.Java.week3;
 
 /**
  * @ClassName CyLinder

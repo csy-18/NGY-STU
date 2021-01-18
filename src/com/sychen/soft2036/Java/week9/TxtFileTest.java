@@ -1,4 +1,4 @@
-package Java.week9;
+package soft2036.Java.week9;
 
 import com.mysql.cj.jdbc.Blob;
 

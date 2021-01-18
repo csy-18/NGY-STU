@@ -13,8 +13,8 @@ public class Test {
         HardDisk disk = new HardDisk();
         disk.setAmount(200);
         PC pc = new PC();
-        pc.setCpu(cpu);
-        pc.setHD(disk);
+//        pc.setCpu(cpu);
+//        pc.setHD(disk);
         pc.show();
     }
 }

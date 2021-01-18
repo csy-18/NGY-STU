@@ -26,45 +26,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="feb15628-2a31-4f6d-9532-dd7834572b38" name="默认的" comment="11月10日">
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week10/Insert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week10/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week10/demo_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week11/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week10/NumberFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week10/NumberThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/ClassRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/ClockFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/JdbcDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/Join.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NGY-STU.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NGY-STU.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/last/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/last/FileTest/FileTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/last/JDBC/TestJdbc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/last/JDBC/TestJdbc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/last/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/last/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/last/WaitAndNotifyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/last/extend/ExtendsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/last/stream/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/JDBC/Stu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/JDBC/TestJdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/JDBC/TestJdbc1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/JDBC/TestJdbc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/JDBC/TestJdbc3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week12/AAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week12/BBB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/6dbc8944-ac1c-4211-a2ca-fd6066520ebc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/6dbc8944-ac1c-4211-a2ca-fd6066520ebc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NGY-STU/soft2036/Java/week7/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week1/DLinkListClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week1/DLinkListClass1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week1/DLinkNode1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week1/DLinkNode1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week1/Exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week1/Exam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week3/SqStackApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week3/SqStackApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week3/SqStackClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week3/SqStackClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week4/Min.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week4/Min.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week4/Tup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week4/Tup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week4/TupElem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week4/TupElem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week5/BTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week5/BTNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week5/BTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week5/BTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week5/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week5/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week2/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week2/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week2/HardDisk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week2/HardDisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week9/BSTClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/DataStr/week9/BSTClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week1/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week1/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week1/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week1/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week1/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week1/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week2/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week2/PC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/CyLinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/CyLinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/MyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/MyDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/OverLoadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/OverLoadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/OverLoadTestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/OverLoadTestApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/TestApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week3/TestApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/BaseEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/BaseEmployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Bird.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/BookNameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/BookNameException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/BookServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/ISBNException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/ISBNException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/PriceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/PriceException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/TestBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week5/TestBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/MarketEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/MarketEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/OtherEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/OtherEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Travel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week4/Travel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week6/Login.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week6/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week7/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week7/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week7/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week7/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week7/MapTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week7/MapTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week7/SetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week7/SetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week9/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week9/FileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week9/TxtFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sychen/soft2036/Java/week9/TxtFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week4/BaseEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week4/BaseEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/week4/MarketEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/week4/MarketEmployeeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,9 +111,6 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
-  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -131,34 +140,37 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/com/sychen" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vue_shop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="week4" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DataStr.week5" />
     </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="week4" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GithubSpace\NGY-STU\src\com\sychen\soft2036\Java\week11\JDBC" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="week4" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="week1" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="week4" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DataStr.week7" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="DataStr.week5" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -179,13 +191,13 @@
       <visibility group="运行配置" flag="true" />
     </myKeys>
   </component>
-  <component name="RunManager" selected="应用程序.QuickSort">
-    <configuration name="ClassRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soft2036.Java.week11.ClassRoom" />
+  <component name="RunManager" selected="应用程序.Date">
+    <configuration name="APP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="soft2036.Java.last.Thread.APP" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soft2036.Java.week11.*" />
+          <option name="PATTERN" value="soft2036.Java.last.Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +205,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdbcDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soft2036.Java.week11.JdbcDemo" />
+    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="soft2036.Java.last.Date" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soft2036.Java.week11.*" />
+          <option name="PATTERN" value="soft2036.Java.last.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soft2036.Java.week11.Join" />
+    <configuration name="MyThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="soft2036.Java.week10.MyThread" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soft2036.Java.week11.*" />
+          <option name="PATTERN" value="soft2036.Java.week10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +231,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soft2036.DataStr.week11.QuickSort" />
+    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="soft2036.Java.last.stream.StreamTest" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soft2036.DataStr.week11.*" />
+          <option name="PATTERN" value="soft2036.Java.last.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,9 +244,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo_sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soft2036.DataStr.week10.demo_sort" />
-      <module name="NGY-STU" />
+    <configuration name="WaitAndNotifyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="soft2036.Java.last.WaitAndNotifyDemo" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="soft2036.Java.last.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -252,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.QuickSort" />
-        <item itemvalue="应用程序.JdbcDemo" />
-        <item itemvalue="应用程序.Join" />
-        <item itemvalue="应用程序.ClassRoom" />
-        <item itemvalue="应用程序.demo_sort" />
+        <item itemvalue="应用程序.Date" />
+        <item itemvalue="应用程序.StreamTest" />
+        <item itemvalue="应用程序.WaitAndNotifyDemo" />
+        <item itemvalue="应用程序.MyThread" />
+        <item itemvalue="应用程序.APP" />
       </list>
     </recent_temporary>
   </component>
@@ -360,6 +378,23 @@
       <workItem from="1607935923977" duration="1804000" />
       <workItem from="1607953431097" duration="30000" />
       <workItem from="1607995248442" duration="4369000" />
+      <workItem from="1608218488429" duration="915000" />
+      <workItem from="1608285022175" duration="2529000" />
+      <workItem from="1608468722866" duration="39000" />
+      <workItem from="1608527139400" duration="3444000" />
+      <workItem from="1608537032937" duration="2010000" />
+      <workItem from="1608617653710" duration="8000" />
+      <workItem from="1609227537063" duration="596000" />
+      <workItem from="1609228161216" duration="17000" />
+      <workItem from="1609754023505" duration="2355000" />
+      <workItem from="1610619614035" duration="8506000" />
+      <workItem from="1610685204739" duration="1417000" />
+      <workItem from="1610877383439" duration="7657000" />
+      <workItem from="1610887026899" duration="5124000" />
+      <workItem from="1610893153062" duration="3525000" />
+      <workItem from="1610932032038" duration="3118000" />
+      <workItem from="1610936735532" duration="2152000" />
+      <workItem from="1610940365538" duration="490000" />
     </task>
     <task id="LOCAL-00001" summary="课后作业">
       <created>1603028158431</created>
@@ -438,6 +473,19 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/sychen/soft2036/Java/week12/BBB.java</url>
+          <line>3</line>
+          <properties class="soft2036.Java.week12.BBB" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sychen/soft2036/Java/week11/ClockFrame.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

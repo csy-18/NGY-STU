@@ -1,4 +1,4 @@
-package week4;
+package soft2036.Java.week4;
 
 /**
  * @ClassName Travel

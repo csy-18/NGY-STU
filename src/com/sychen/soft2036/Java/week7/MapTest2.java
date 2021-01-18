@@ -1,4 +1,4 @@
-package Java.week7;
+package soft2036.Java.week7;
 
 import java.util.HashMap;
 import java.util.Map;

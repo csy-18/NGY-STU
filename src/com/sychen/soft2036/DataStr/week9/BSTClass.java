@@ -1,4 +1,4 @@
-package DataStr.week9;
+package soft2036.DataStr.week9;
 
 /**
  * @ClassName BSTClass

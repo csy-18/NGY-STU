@@ -6,6 +6,6 @@ package week4;
  * @Author msi
  * @Date 2020-10-26
  **/
-public interface Bird extends week4.Fly {
+public interface Bird  {
 
 }
